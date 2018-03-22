@@ -1,0 +1,3 @@
+export const MESSAGE_START = 'MESSAGE_START';
+export const MESSAGE_STOP = 'MESSAGE_STOP';
+export const MESSAGE_IS_PLAYING = 'MESSAGE_IS_PLAYING';

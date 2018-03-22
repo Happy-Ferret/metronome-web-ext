@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Metronome",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Simple metronome in browser toolbar",
+    "description": "Description of the extension."
+  }
+}

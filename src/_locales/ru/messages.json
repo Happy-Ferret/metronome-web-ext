@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Метроном",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Простой метроном в панели браузера",
+    "description": "Description of the extension."
+  }
+}
